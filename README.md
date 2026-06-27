@@ -1,5 +1,5 @@
 # my-alarm-clock
-An alarm clock that makes you wake up no matter what. If you dont silence it within 45 seconds, it will start blaring horns and sirens!
+An alarm clock that makes you wake up no matter what. If you dont silence it within 45 seconds, it will start blaring horns and sirens! To make it more interesting, I'll also have it where you need to use a RFID tag to silence it, so if you dont have an RFID tag, well sorry but your going deaf
 
 
 Parts:
@@ -13,6 +13,7 @@ Parts:
 
 **Parts needed**
 - 5v 2-Channel Relay module
+- MRFC522
 
 **Already Have**
 - Wheelock Exceeder Horn Strobe
