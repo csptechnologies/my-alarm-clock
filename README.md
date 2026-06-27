@@ -10,10 +10,12 @@ Parts:
 - 12 Keyboard Switches
 - A 3.3V Piezo Buzzer
 - Some Jumper Cables for wiring
+- Keyswitches
 
 **Parts needed**
 - 5v 2-Channel Relay module
 - MRFC522
+- PCF8574
 
 **Already Have**
 - Wheelock Exceeder Horn Strobe
