@@ -18,3 +18,4 @@ Parts:
 **Already Have**
 - Wheelock Exceeder Horn Strobe
 - System Sensor L Series LF Sounder
+- 12V Battery
